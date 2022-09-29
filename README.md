@@ -66,7 +66,7 @@ Here in our project, target temperature(the second element) is not in considerat
 
 detect_meter.detect():
 angles
-example: 318.0°
+example: 321.6°
 
 4. camera requirrement:
 
